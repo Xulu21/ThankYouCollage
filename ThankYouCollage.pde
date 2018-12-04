@@ -9,6 +9,23 @@ void setup () {
   img = loadImage ("Oof.jpg");
   image (img,0,0,width/1,height/1);
   
+   img = loadImage ("ThankYou1.png");
+   
+   img = loadImage ("ThankYou2.png");
+   
+   img = loadImage ("ThankYou3.png");
+   
+   img = loadImage ("ThankYou4.png");
+   
+   img = loadImage ("ThankYou5.png");
+   
+   img = loadImage ("ThankYou6.png");
+   
+   img = loadImage ("ThankYou7.png");
+   
+   img = loadImage ("ThankYou8.png");
+   
+   img = loadImage ("ThankYou9.png");
 }
 
 void draw () {
