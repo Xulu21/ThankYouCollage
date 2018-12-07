@@ -1,3 +1,5 @@
+/* @pjs preload="flag.png"; */
+
 float r=0;
 float x=90;
 float y=180;
