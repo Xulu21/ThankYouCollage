@@ -1,4 +1,4 @@
-
+/* @pjs preload="flag.png"; */
 
 
 float r=0;
