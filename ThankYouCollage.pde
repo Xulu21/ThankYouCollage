@@ -1,13 +1,5 @@
 /* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
-/* @pjs preload="flag.png"; */
+
 
 float r=0;
 float x=90;
