@@ -1,13 +1,4 @@
-/* @pjs preload="Oof.png"; */
-/* @pjs preload="ThankYou1.png"; */
-/* @pjs preload="ThankYou2.png"; */
-/* @pjs preload="ThankYou3.png"; */
-/* @pjs preload="ThankYou4.png"; */
-/* @pjs preload="ThankYou5.png"; */
-/* @pjs preload="ThankYou6.png"; */
-/* @pjs preload="ThankYou7.png"; */
-/* @pjs preload="ThankYou8.png"; */
-/* @pjs preload="ThankYou9.png"; */
+
 
 
 float r=0;
