@@ -15,29 +15,38 @@ float x=90;
 float y=180;
 float z=270;
 PImage img;
+PImage img1;
+PImage img2;
+PImage img3;
+PImage img4;
+PImage img5;
+PImage img6;
+PImage img7;
+PImage img8;
+PImage img9;
 
 void setup () {
   size (600,600);
   img = loadImage ("Oof.jpg");
   image (img,0,0,width/1,height/1);
   
-   img = loadImage ("ThankYou1.png");
+   img1 = loadImage ("ThankYou1.png");
    
-   img = loadImage ("ThankYou2.png");
+   img2 = loadImage ("ThankYou2.png");
    
-   img = loadImage ("ThankYou3.png");
+   img3 = loadImage ("ThankYou3.png");
    
-   img = loadImage ("ThankYou4.png");
+   img4 = loadImage ("ThankYou4.png");
    
-   img = loadImage ("ThankYou5.png");
+   img5 = loadImage ("ThankYou5.png");
    
-   img = loadImage ("ThankYou6.png");
+   img6 = loadImage ("ThankYou6.png");
    
-   img = loadImage ("ThankYou7.png");
+   img7 = loadImage ("ThankYou7.png");
    
-   img = loadImage ("ThankYou8.png");
+   img8 = loadImage ("ThankYou8.png");
    
-   img = loadImage ("ThankYou9.png");
+   img9 = loadImage ("ThankYou9.png");
 }
 
 void draw () {
@@ -146,41 +155,41 @@ void draw () {
  rect (100,100,400,400);
 
    if (mousePressed) {
-    img = loadImage ("ThankYou1.png");
+    img1 = loadImage ("ThankYou1.png");
     image (img,100,100,width/4.5,height/4.5);
   }
  
-   img = loadImage ("ThankYou2.png");
+   img2 = loadImage ("ThankYou2.png");
   image (img,230,100,width/4.2,height/4.58);
   
      if (mousePressed) {
-    img = loadImage ("ThankYou3.png");
+    img3 = loadImage ("ThankYou3.png");
     image (img,370,100,width/4.55,height/4.5);
   }
   
      if (mousePressed) {
-    img = loadImage ("ThankYou4.png");
+    img4 = loadImage ("ThankYou4.png");
     image (img,100,230,width/4.5,height/4.31);
   }
  
-   img = loadImage ("ThankYou5.png");
+   img5 = loadImage ("ThankYou5.png");
   image (img,230,230,width/4.2,height/4.2);
   
      if (mousePressed) {
-    img = loadImage ("ThankYou6.png");
+    img6 = loadImage ("ThankYou6.png");
     image (img,370,230,width/4.55,height/4.31);
   }
   
      if (mousePressed) {
-    img = loadImage ("ThankYou7.png");
+    img7 = loadImage ("ThankYou7.png");
     image (img,100,370,width/4.5,height/4.55);
   }
      if (mousePressed) {
-    img = loadImage ("ThankYou8.png");
+    img8 = loadImage ("ThankYou8.png");
     image (img,230,370,width/4.31,height/4.6);
   }
  
-   img = loadImage ("ThankYou9.png");
+   img9 = loadImage ("ThankYou9.png");
   image (img,370,370,width/4.57,height/4.57);
  
  strokeWeight (4);
