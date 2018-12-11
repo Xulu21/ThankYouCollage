@@ -1,10 +1,3 @@
-
-
-float r=0;
-float x=90;
-float y=180;
-float z=270;
-
 PImage img;
 PImage img1;
 PImage img2;
@@ -15,6 +8,12 @@ PImage img6;
 PImage img7;
 PImage img8;
 PImage img9;
+
+float r=0;
+float x=90;
+float y=180;
+float z=270;
+
 
 void setup () {
   size (600,600);
