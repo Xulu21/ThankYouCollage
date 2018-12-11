@@ -4,6 +4,7 @@ float r=0;
 float x=90;
 float y=180;
 float z=270;
+
 PImage img;
 PImage img1;
 PImage img2;
@@ -19,24 +20,7 @@ void setup () {
   size (600,600);
   img = loadImage ("Oof.jpg");
   image (img,0,0,width/1,height/1);
-  
-   img1 = loadImage ("ThankYou1.png");
-   
-   img2 = loadImage ("ThankYou2.png");
-   
-   img3 = loadImage ("ThankYou3.png");
-   
-   img4 = loadImage ("ThankYou4.png");
-   
-   img5 = loadImage ("ThankYou5.png");
-   
-   img6 = loadImage ("ThankYou6.png");
-   
-   img7 = loadImage ("ThankYou7.png");
-   
-   img8 = loadImage ("ThankYou8.png");
-   
-   img9 = loadImage ("ThankYou9.png");
+
 }
 
 void draw () {
