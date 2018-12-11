@@ -182,8 +182,7 @@ void draw () {
  
    img9 = loadImage ("ThankYou9.png");
   image (img9,370,370,width/4.57,height/4.57);
-   
-  image (img,370,370,width/4.57,height/4.57);
+
  strokeWeight (4);
  //Lines Rows
  stroke (0);
